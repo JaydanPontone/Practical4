@@ -8,6 +8,8 @@ namespace Practical4
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Napier!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Napier!");
         }
     }
 }
